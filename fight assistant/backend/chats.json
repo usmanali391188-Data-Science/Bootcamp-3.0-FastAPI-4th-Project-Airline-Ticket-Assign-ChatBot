@@ -1,0 +1,62 @@
+[
+    {
+        "session_id": "853e1148-38f5-42a3-a82d-e7686ee76bf5",
+        "message": "hi",
+        "response": "Hello! \ud83d\udc4b Welcome to Flight Ticket Assistant AI. Would you like to book a flight?"
+    },
+    {
+        "session_id": "853e1148-38f5-42a3-a82d-e7686ee76bf5",
+        "message": "yea",
+        "response": "I'm not sure I understand. Please say 'hi' to start or 'yes' to book a flight."
+    },
+    {
+        "session_id": "853e1148-38f5-42a3-a82d-e7686ee76bf5",
+        "message": "yes",
+        "response": "Sure! \u2708\ufe0f Please fill out the form below to book your flight."
+    },
+    {
+        "session_id": "1a588957-33e6-4988-9317-16e86ceb9c84",
+        "message": "hi",
+        "response": "Hello! \ud83d\udc4b Welcome to Flight Ticket Assistant AI. Would you like to book a flight?"
+    },
+    {
+        "session_id": "1a588957-33e6-4988-9317-16e86ceb9c84",
+        "message": "yes",
+        "response": "Sure! \u2708\ufe0f Please fill out the form below to book your flight."
+    },
+    {
+        "session_id": "a3769ac0-b343-484f-ac84-70f0a7953493",
+        "message": "hello",
+        "response": "Hello! \ud83d\udc4b Welcome to Flight Ticket Assistant AI. Would you like to book a flight?"
+    },
+    {
+        "session_id": "a3769ac0-b343-484f-ac84-70f0a7953493",
+        "message": "yea",
+        "response": "Sure! \u2708\ufe0f Please fill out the form below to book your flight."
+    },
+    {
+        "session_id": "c5cbc904-963e-4896-9b1e-23cb5c24a7d9",
+        "message": "hi",
+        "response": "Hello! \ud83d\udc4b Welcome to Flight Ticket Assistant AI. Would you like to book a flight?"
+    },
+    {
+        "session_id": "c5cbc904-963e-4896-9b1e-23cb5c24a7d9",
+        "message": "jojojda",
+        "response": "I'm not sure I understand. Please say 'hi' to start or 'yes' to book a flight."
+    },
+    {
+        "session_id": "c5cbc904-963e-4896-9b1e-23cb5c24a7d9",
+        "message": "hi",
+        "response": "Hello! \ud83d\udc4b Welcome to Flight Ticket Assistant AI. Would you like to book a flight?"
+    },
+    {
+        "session_id": "bfe7fcd2-f181-4280-9e2e-065e91a3e737",
+        "message": "hi",
+        "response": "Hello! \ud83d\udc4b Welcome to Flight Ticket Assistant AI. Would you like to book a flight?"
+    },
+    {
+        "session_id": "bfe7fcd2-f181-4280-9e2e-065e91a3e737",
+        "message": "yes",
+        "response": "Sure! \u2708\ufe0f Please fill out the form below to book your flight."
+    }
+]
